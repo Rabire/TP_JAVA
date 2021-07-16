@@ -1,0 +1,4 @@
+BO;artist1;OST1;2021;film1
+Live;artist1;album1;2021;lieu1
+BO;artist2;OST1;2021;film2
+Live;artist2;album1;2021;lieu2
